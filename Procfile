@@ -1,2 +1,1 @@
-wpython veeronica.py
-
+worker: python veeronica.py
